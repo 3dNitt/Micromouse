@@ -1,7 +1,7 @@
 # Micromouse
 #### Table of Contents:
 1. [Introduction](#about)
-1. [Algorithm](#algorithm)
+1. [Algorithm](#algorithms)
 	* [Modified flood algo](#modified-floodfill-algorithm)
 3. [Simulator](#Micromouse-Maze-Simulator)
 
