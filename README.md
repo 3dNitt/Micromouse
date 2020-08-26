@@ -2,7 +2,7 @@
 #### Table of Contents:
 1. [Introduction](#about)
 2. [Algorithm](#modified-floodfill-algorithm)
-3. [Simulator](#mmsim-(Micromouse-Maze-Simulator))
+3. [Simulator](#Micromouse-Maze-Simulator)
 
 # About
 Micromouse is an event where small robot mice solve a 16×16 maze. It began in the late 1970s.[1] Events are held worldwide, and are most popular in the UK, U.S., Japan, Singapore, India, South Korea and becoming popular in subcontinent countries such as Sri Lanka.
@@ -12,4 +12,5 @@ The maze is made up of a 16×16 grid of cells, each 180 mm square with walls 50 
 ## Modified Floodfill Algorithm
  Download [this pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjemOqZpbjrAhW94HMBHVcxDhQQFjABegQICxAD&url=http%3A%2F%2Fijcte.org%2Fpapers%2F738-T012.pdf&usg=AOvVaw2uW4zsDibyeHgYuILskI9J) to get insight of the algorithm.
 
-## MMSIM (Micromouse Maze Simulator)
+## Micromouse Maze Simulator
+YOu can find about the simulator [here](https://mmsim.readthedocs.io/en/stable/).
