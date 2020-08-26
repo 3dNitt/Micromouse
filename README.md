@@ -1,7 +1,8 @@
 # Micromouse
 #### Table of Contents:
 1. [Introduction](#about)
-2. [Algorithm](#modified-floodfill-algorithm)
+2. [Algorithm](#algorithm)
+		* Modified flodd algo(#modified-floodfill-algorithm)
 3. [Simulator](#Micromouse-Maze-Simulator)
 
 # About
@@ -15,5 +16,10 @@ We participated in the competition in __Dec2019-Jan2020__ at 2 places:
 ## Modified Floodfill Algorithm
 Download [this pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjemOqZpbjrAhW94HMBHVcxDhQQFjABegQICxAD&url=http%3A%2F%2Fijcte.org%2Fpapers%2F738-T012.pdf&usg=AOvVaw2uW4zsDibyeHgYuILskI9J) to get insight of the algorithm.
 
+# Algorithms
+We used following things in our programming:
+	* Flood fill algorithm
+	* Bit masking
+	* PID control
 ## Micromouse Maze Simulator
 You can find about the simulator [here](https://mmsim.readthedocs.io/en/stable/).
