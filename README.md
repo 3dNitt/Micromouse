@@ -15,7 +15,7 @@ We participated in the competition in __Dec2019-Jan2020__ at 2 places:
   * Shashtra, IITM.
 
 # Algorithms
-We used following things in our programming:
+We used following things in our programme:
 * Flood fill algorithm
 * Bit masking
 * PID control
