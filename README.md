@@ -12,14 +12,16 @@ The maze is made up of a 16×16 grid of cells, each 180 mm square with walls 50 
 
 We participated in the competition in __Dec2019-Jan2020__ at 2 places:
   * Techfest, IITB.
-  * IITM.
-## Modified Floodfill Algorithm
-Download [this pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjemOqZpbjrAhW94HMBHVcxDhQQFjABegQICxAD&url=http%3A%2F%2Fijcte.org%2Fpapers%2F738-T012.pdf&usg=AOvVaw2uW4zsDibyeHgYuILskI9J) to get insight of the algorithm.
+  * Shashtra, IITM.
 
 # Algorithms
 We used following things in our programming:
-	* Flood fill algorithm
-	* Bit masking
-	* PID control
+* Flood fill algorithm
+* Bit masking
+* PID control
+
+## Modified Floodfill Algorithm
+Download [this pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjemOqZpbjrAhW94HMBHVcxDhQQFjABegQICxAD&url=http%3A%2F%2Fijcte.org%2Fpapers%2F738-T012.pdf&usg=AOvVaw2uW4zsDibyeHgYuILskI9J) to get insight of the algorithm.
+
 ## Micromouse Maze Simulator
 You can find about the simulator [here](https://mmsim.readthedocs.io/en/stable/).
